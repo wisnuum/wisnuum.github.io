@@ -805,7 +805,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/20180125-63540-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -839,8 +839,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20180110-171953-2000x1500.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
