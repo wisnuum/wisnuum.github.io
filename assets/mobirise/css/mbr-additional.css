@@ -2174,6 +2174,49 @@ body {
 .cid-qJuNiSIyPM .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-qJuMeYkaSV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-qJuMeYkaSV .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qJuMeYkaSV .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qJuMeYkaSV .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qJuMeYkaSV .team-item .item-image img {
+  width: 100%;
+}
+.cid-qJuMeYkaSV .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qJuMeYkaSV .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qJuMeYkaSV .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qJuMeYkaSV .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qJuMeYkaSV .team-item .item-caption {
+  background: #55b4d4;
+}
+.cid-qJuMeYkaSV .item-name {
+  color: #ffffff;
+}
+.cid-qJuMeYkaSV .item-role P {
+  color: #ffffff;
+}
 .cid-qJuhLgDz2O {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2628,7 +2671,7 @@ body {
 .cid-qJuNA7FWD6 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/background25.jpg");
 }
 .cid-qJuNA7FWD6 .mbr-section-subtitle {
   color: #232323;
